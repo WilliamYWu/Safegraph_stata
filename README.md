@@ -1,1 +1,1 @@
-# STATA_SAFEGRAPH
+# Safegraph_Stata
